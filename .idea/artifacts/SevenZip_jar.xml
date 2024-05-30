@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SevenZip:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SevenZip_jar</output-path>
+    <root id="archive" name="SevenZip.jar">
+      <element id="module-output" name="SevenZip" />
+    </root>
+  </artifact>
+</component>
